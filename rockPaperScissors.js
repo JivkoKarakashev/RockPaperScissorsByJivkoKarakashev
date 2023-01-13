@@ -14,7 +14,10 @@ function rockPaperScissors(){
     let playerTurn;
     
     let recursiveAsyncReadLine = function () {        
-        readline.question(`Choose one of the following three options:\n          -1.Type "r" OR rock" in console, if your choice is "Rock";\n          -2.Type "p" OR "paper" in console, if your choice is "Paper"\n          -3."Type "s" OR "scissors" in console, if your choice is ""Scissors:`, string => {
+        readline.question(`Choose one of the following three options:
+            -1.Type "r" OR rock" in console, if your choice is "Rock";
+            -2.Type "p" OR "paper" in console, if your choice is "Paper";
+            -3."Type "s" OR "scissors" in console, if your choice is "Scissors";`, string => {
             
             playerTurn = String(string);
             
