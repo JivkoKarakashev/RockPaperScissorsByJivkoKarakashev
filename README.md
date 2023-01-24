@@ -4,4 +4,4 @@
 ## Live Demo
 
 You can play the game directly in your Web browser here:
-[<img alt="Play Button" src="https://github.com/JivkoKarakashev/RockPaperScissorsByJivkoKarakashev/blob/main/Readme.png" />](https://replit.com/@JivkoKarakashev/RockPaperScissors#rockPaperScissors.js)
+[<img alt="Play Button" src="https://github.com/JivkoKarakashev/RockPaperScissorsByJivkoKarakashev/blob/main/Readme.png" />](https://replit.com/@JivkoKarakashev/RockPaperScissorsByJivkoKarakashev#rockPaperScissors.js)
